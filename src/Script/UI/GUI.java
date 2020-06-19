@@ -1,4 +1,4 @@
-package UI;
+package Script.UI;
 
 public class GUI {
 }

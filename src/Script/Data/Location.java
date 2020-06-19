@@ -1,4 +1,4 @@
-package Data;
+package Script.Data;
 
 public class Location {
 }

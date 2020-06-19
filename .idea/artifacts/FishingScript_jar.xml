@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FishingScript:jar">
+    <output-path>$USER_HOME$/Documents/RSPeer/scripts</output-path>
+    <root id="archive" name="FishingScript.jar">
+      <element id="module-output" name="FishingScript" />
+    </root>
+  </artifact>
+</component>
